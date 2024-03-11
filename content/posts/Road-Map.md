@@ -6,8 +6,8 @@ draft = false
 
 # Road Map
 
-*Revive the thread on R/Dominos
-*Search in R/Shreveport for former Dominos Managers during the 2006-2009 period
-*Create social media presence and begin to try and expand the reach of this campaign
-*Internet Wayback Machine Dominos website during that period (Including press releases that would typically be included with a promotional launch)
-*Try to get this campaign in front of influential people at Dominos!
+* Revive the thread on R/Dominos
+* Search in R/Shreveport for former Dominos Managers during the 2006-2009 period
+* Create social media presence and begin to try and expand the reach of this campaign
+* Internet Wayback Machine Dominos website during that period (Including press releases that would typically be included with a promotional launch)
+* Try to get this campaign in front of influential people at Dominos!
