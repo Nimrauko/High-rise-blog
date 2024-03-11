@@ -1,6 +1,6 @@
-baseurl = "https://jnjosh.com/"
+baseurl = "https://high-rise-blog.pages.dev"
 languageCode = "en-us"
-title = "internet weblog"
+title = "In Search of High Rise"
 theme = "internet-weblog"
 pygmentsstyle = "emacs"
 Paginate = 10
@@ -9,12 +9,12 @@ Paginate = 10
 unsafe=true
 
 [author]
-	Handle = "jnjosh"
-	FirstName = "Josh"
-	LastName = "Johnson"
+	Handle = "High-Rise"
+	FirstName = "Shira"
+	LastName = "Nazarian"
 	AboutPage = "/about"
-	Location = "Durham, NC"
-	FlickrID = "87151163@N00"
+	Location = "Planet Earth, USA"
+	FlickrID = ""
 
 [params]
 	Description = "Internet weblog of Software (Mac, iOS, Web) Developer, Josh Johnson."
