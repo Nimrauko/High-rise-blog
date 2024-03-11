@@ -2,47 +2,42 @@ baseurl = "https://high-rise-blog.pages.dev"
 languageCode = "en-us"
 title = "In Search of High Rise"
 theme = "internet-weblog"
-pygmentsstyle = "emacs"
 Paginate = 10
-
-[markup.goldmark.renderer]
-unsafe=true
+SectionPagesMenu = "main"
 
 [author]
-	Handle = "High-Rise"
-	FirstName = "Shira"
-	LastName = "Nazarian"
-	AboutPage = "/about"
-	Location = "Planet Earth, USA"
-	FlickrID = ""
+   Handle = "jnjosh"
+   FirstName = "Josh"
+   LastName = "Johnson"
+   AboutPage = "/about"
+   Location = "Durham, NC"
+   FlickrID = "87151163@N00"
 
 [params]
-	Description = "Internet weblog of Software (Mac, iOS, Web) Developer, Josh Johnson."
-	ShowCopyright = true
-	RSSEnabled = true
-	EnablePreferredDarkAppearance = true
-	RSSMicropostTitles = false
-	mainSections = [ "posts", "microposts", "photos" ]
+   Description = "This is my blog, read it and enjoy."
+   ShowCopyright = true
+   RSSEnabled = true
+   RSSSections = [ "Posts", "Microposts", "Photos" ]
 
 [taxonomies]
-	tag = "tags"
-	category = "categories"
-	series = "series"
+   tag = "tags"
+   category = "categories"
+   series = "series"
 
 [[menu.main]]
-	name = "Microposts"
-	weight = 1
-	identifier = "microposts"
-	url = "/microposts/"
+   name = "Posts"
+   weight = 1
+   identifier = "posts"
+   url = "/posts/"
 
 [[menu.main]]
-	name = "Post Archive"
-	weight = 2
-	identifier = "posts"
-	url = "/posts/"
+   name = "Microposts"
+   weight = 2
+   identifier = "microposts"
+   url = "/microposts/"
 
 [[menu.main]]
-	name = "Photography"
-	weight = 3
-	identifier = "photoography"
-	url = "https://jnjosh.photography"
+   name = "Photos"
+   weight = 3
+   identifier = "photos"
+   url = "/photos/"
