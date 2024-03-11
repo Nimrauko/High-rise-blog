@@ -1,4 +1,4 @@
-baseurl = "https://high-rise-blog.pages.dev"
+baseurl = "https://high-rise-blog.pages.dev/"
 languageCode = "en-us"
 title = "In Search of High Rise"
 theme = "internet-weblog"
