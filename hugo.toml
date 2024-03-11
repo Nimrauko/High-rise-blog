@@ -1,6 +1,6 @@
 baseurl = "https://high-rise-blog.pages.dev/"
 languageCode = "en-us"
-title = "In Search of High Rise"
+title = "Search for High Rise"
 theme = "internet-weblog"
 Paginate = 10
 SectionPagesMenu = "main"
@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
    Handle = "Shira"
    FirstName = "Shira"
    LastName = "Nazarian"
-   AboutPage = "/about"
+   AboutPage = "https://www.wheresthehighrise.com/#about"
    Location = "USA,Planet Earth"
    FlickrID = ""
 
