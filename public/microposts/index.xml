@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@jnjosh’s internet weblog - Microposts</title>
+    <title>@Shira’s In Search of High Rise - Microposts</title>
     <link>http://localhost:1313/microposts/</link>
-    <description>All entries in Microposts on internet weblog</description>
+    <description>All entries in Microposts on In Search of High Rise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
