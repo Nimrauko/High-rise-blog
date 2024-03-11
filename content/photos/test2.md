@@ -5,7 +5,7 @@ location = "The Interwebs"
 camera = "Midjourney"
 +++
 
-## AI Generated photos for short story based on "Hotel California"
+## A Search Renewed!
 
 ![Lone Slice of Pizza](https://live.staticflickr.com/65535/53581849399_19e36fdf85_b.jpg) 
 <br>
