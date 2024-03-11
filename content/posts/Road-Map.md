@@ -2,7 +2,7 @@
 title = 'Road Map'
 date = 2024-03-11T14:05:53-05:00
 draft = false
-summary = " Revive the thread on R/Dominos "
+summary = " Here we layout a general roadmap for how we are envisioning this journey "
 +++
 
 # Road Map
