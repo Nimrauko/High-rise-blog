@@ -30,13 +30,19 @@ unsafe=true
 	series = "series"
 
 [[menu.main]]
-	name = "Post Archive"
+	name = "Microposts"
 	weight = 1
+	identifier = "microposts"
+	url = "/microposts/"
+
+[[menu.main]]
+	name = "Post Archive"
+	weight = 2
 	identifier = "posts"
 	url = "/posts/"
 
 [[menu.main]]
 	name = "Photography"
-	weight = 2
+	weight = 3
 	identifier = "photoography"
 	url = "https://jnjosh.photography"
