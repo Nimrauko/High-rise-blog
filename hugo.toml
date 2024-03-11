@@ -6,12 +6,12 @@ Paginate = 10
 SectionPagesMenu = "main"
 
 [author]
-   Handle = "jnjosh"
-   FirstName = "Josh"
-   LastName = "Johnson"
+   Handle = "Shira"
+   FirstName = "Shira"
+   LastName = "Nazarian"
    AboutPage = "/about"
-   Location = "Durham, NC"
-   FlickrID = "87151163@N00"
+   Location = "USA,Planet Earth"
+   FlickrID = ""
 
 [params]
    Description = "This is my blog, read it and enjoy."
